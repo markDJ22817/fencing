@@ -4,7 +4,6 @@ body {
 }
 
 header {
-    background-color: white;
     padding: 5px;
 }
 
@@ -39,13 +38,11 @@ h1 {
 
 
 footer {
-    background-color: white;
     padding: 10px;
     margin-top: 20px;
 }
 
 footer p {
-    background-color: white;
     padding: 5px;
  }
 
@@ -56,6 +53,10 @@ footer a {
     font-size: 16px;
     padding: 10px 25px;
     border-radius: 10px;
+}
+
+main {
+    text-align: center;
 }
 
 
